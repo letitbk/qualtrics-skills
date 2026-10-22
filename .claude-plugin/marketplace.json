@@ -1,0 +1,17 @@
+{
+  "name": "qualtrics-skills",
+  "description": "Build, edit and audit Qualtrics surveys through the API, then test every route with scripted respondents before fielding.",
+  "owner": {
+    "name": "letitbk"
+  },
+  "plugins": [
+    {
+      "name": "qualtrics-skills",
+      "source": "./",
+      "description": "Build, edit and audit Qualtrics surveys through the API, then test every route with scripted respondents before fielding.",
+      "author": {
+        "name": "Byungkyu Lee"
+      }
+    }
+  ]
+}

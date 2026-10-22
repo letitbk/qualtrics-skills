@@ -1,0 +1,11 @@
+{
+  "name": "qualtrics-skills",
+  "version": "1.0.0",
+  "description": "Build, edit and audit Qualtrics surveys through the API, then test every route with scripted respondents before fielding.",
+  "author": {
+    "name": "Byungkyu Lee"
+  },
+  "homepage": "https://github.com/letitbk/qualtrics-skills",
+  "repository": "https://github.com/letitbk/qualtrics-skills",
+  "license": "MIT"
+}

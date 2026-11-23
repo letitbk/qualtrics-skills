@@ -1,5 +1,7 @@
 # qualtrics-skills
 
+![views](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fletitbk%2F0b43bc14ffc81fd521691ea369ad9025%2Fraw%2Ftraffic.json&query=%24%5B%27qualtrics-skills%27%5D.views&label=views) ![clones](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgist.githubusercontent.com%2Fletitbk%2F0b43bc14ffc81fd521691ea369ad9025%2Fraw%2Ftraffic.json&query=%24%5B%27qualtrics-skills%27%5D.clones&label=clones)
+
 Two skills for building a Qualtrics survey with an agent and proving it works before real respondents see it.
 
 ## The problem
